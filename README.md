@@ -1,2 +1,3 @@
-thi is my first trial
+this is my first trial
 for working in git
+class
